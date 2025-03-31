@@ -51,22 +51,10 @@ pip install requests pandas smtplib email apscheduler
 
 ## Example Email Output
 
-## Example Output
-
-### Forecast Overview:
-
 | Time Period (UT) | Jan 19              | Jan 20              | Jan 21              |
 |------------------|---------------------|---------------------|---------------------|
 | 00:00-03:00      | Moderate aurora activity | Strong aurora        | Possible aurora      |
 
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Disclaimer
 
