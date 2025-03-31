@@ -51,24 +51,14 @@ pip install requests pandas smtplib email apscheduler
 
 ## Example Email Output
 
-```html
-<h2>Aurora Forecast for Jan 19</h2>
-<h3>Forecast Overview:</h3>
-<table border="1" cellpadding="5">
-    <tr>
-        <th>Time Period (UT)</th>
-        <th>Jan 19</th>
-        <th>Jan 20</th>
-        <th>Jan 21</th>
-    </tr>
-    <tr>
-        <td>00:00-03:00</td>
-        <td>Moderate aurora activity</td>
-        <td>Strong aurora</td>
-        <td>Possible aurora</td>
-    </tr>
-</table>
-```
+## Example Output
+
+### Forecast Overview:
+
+| Time Period (UT) | Jan 19              | Jan 20              | Jan 21              |
+|------------------|---------------------|---------------------|---------------------|
+| 00:00-03:00      | Moderate aurora activity | Strong aurora        | Possible aurora      |
+
 
 ## Contributing
 
